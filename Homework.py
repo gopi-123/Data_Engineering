@@ -15,7 +15,10 @@ df = pd.read_csv(file_path)
 # 
 #https://spark.apache.org/docs/latest/api/python/user_guide/pandas_on_spark/pandas_pyspark.html
 
-#Step 2: convert pandas datframe to spark dataframe
+# Step 2: 
+# convert pandas Datframe to pandas-on-Spark DataFrame
+# pandas DataFrame can be a pandas-on-Spark DataFrame easily as below
+
 import pyspark.pandas as ps
 spdf = ps.from_pandas(df)
 # printing spark dataframe
@@ -30,6 +33,7 @@ print("type(spdf)",type(spdf))
 # https://adb-8419334039469530.10.azuredatabricks.net/explore/data/lab_ssa/project_qaa_11128?o=8419334039469530
 table_path = "lab_ssa.project_qaa_11128.gopi_test_table"
 
+#PySpark users can access the full PySpark APIs by calling DataFrame.to_spark()
 spdf.to_spark().write.mode('overwrite').saveAsTable(table_path)
 
 '''

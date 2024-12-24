@@ -3,7 +3,7 @@ Projects and Notes
 
 
 
-### ADLS storage account
+### ADLS storage account, Azure SQL DB Creation
 
 
 #### Differnece between Pandas vs Pyspark:

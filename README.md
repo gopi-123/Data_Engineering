@@ -2,6 +2,10 @@
 Projects and Notes
 
 
+
+### ADLS storage account
+
+
 #### Differnece between Pandas vs Pyspark:
 Pandas and PySpark are both popular libraries in the Python ecosystem for data manipulation and analysis, but they have different use cases and trade-offs. Here are some key differences between them:
 

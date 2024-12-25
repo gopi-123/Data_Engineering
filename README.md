@@ -3,7 +3,7 @@ Projects and Notes
 
 
 
-### ADLS storage account, Azure SQL DB Creation , SQL , NoSQL databases
+### ADLS storage account, Azure SQL DB Creation , SQL , NoSQL databases , Azure Data Factory
 
 ### Azure Databricks , Spark and big data technologies , Azure Data Lake, Azure Devops
 

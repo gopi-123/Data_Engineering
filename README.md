@@ -3,7 +3,9 @@ Projects and Notes
 
 
 
-### ADLS storage account, Azure SQL DB Creation
+### ADLS storage account, Azure SQL DB Creation , SQL , NoSQL databases
+
+### Azure Databricks , Spark and big data technologies , Azure Data Lake, Azure Devops
 
 
 #### Differnece between Pandas vs Pyspark:

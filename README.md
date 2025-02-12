@@ -1,9 +1,10 @@
 # Data_Engineering
-Projects and Notes
+Repository consissts of Projects, Assignments , Solutions and Notes
 
 
+## Following Topics are included
 
-### ADLS storage account, Azure SQL DB Creation , SQL , NoSQL databases , Azure Data Factory
+### ADLS storage account, Azure SQL DB Creation , Azure Data Factory(ADF) ,  Azure Data Factory Pipelines, SQL , NoSQL databases , Azure Data Factory
 
 ### Azure Databricks , Spark and big data technologies , Azure Data Lake, Azure Devops
 

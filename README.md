@@ -10,7 +10,7 @@ Repository consissts of Projects, Assignments , Solutions and Notes
 
 
 #### Activities
- Foreach, GetMetaData, HighWaterMark File , incremental pipeline
+ Foreach, GetMetaData, HighWaterMark File , Incremental pipeline, Slowly Changing Dimensions(SCD),  SCD Type 1, 3 etc.
 
 
 #### Differnece between Pandas vs Pyspark:

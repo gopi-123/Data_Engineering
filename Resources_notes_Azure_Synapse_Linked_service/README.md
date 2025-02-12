@@ -65,8 +65,7 @@ Absolutely! Here is a formatted version of the content you provided. You can eas
 
 **Conclusion:**
 
-This session provided a comprehensive overview of how to build an end-to-end data pipeline using Azure Synapse, Spark, and Power BI, with a focus on real-world applications and best practices.
+This provided a comprehensive overview of how to build an end-to-end data pipeline using Azure Synapse, Spark, and Power BI, with a focus on real-world applications and best practices.
 
 ---
 
-You can now copy this content into a Word document for your records. If you need any further assistance or modifications, feel free to ask! 😊

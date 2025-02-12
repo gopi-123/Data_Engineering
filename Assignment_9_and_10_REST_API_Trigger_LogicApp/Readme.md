@@ -1,4 +1,4 @@
-## Assignment 10: Assignment 10: Rest API / Triggers Assignment 
+## Assignment 10: Assignment 10: Rest API / Triggers and Logic App Assignment 
 
 	1. Create a pipeline to fetch the All countries data from Rest API 
 	(https://restcountries.com/v3.1/all) and save it as parquet file in ADLS. 
@@ -22,3 +22,4 @@
 	
 	6. Once a file for India gets generated trigger a pipeline that will copy the India.json 
 	file as CSV into the ADLS account. 
+

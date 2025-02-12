@@ -4,9 +4,9 @@ Repository consissts of Projects, Assignments , Solutions and Notes
 
 ## Following Topics are included
 
-### ADLS storage account, Azure SQL DB Creation , Azure Data Factory(ADF) ,  Azure Data Factory Pipelines, SQL , NoSQL databases , Azure Data Factory
+### ADLS storage account, Azure SQL DB Creation , Azure Data Factory(ADF) ,  Azure Data Factory Pipelines, SQL , NoSQL databases , Azure Databricks 
 
-### Azure Databricks , Spark and big data technologies , Azure Data Lake, Azure Devops
+### Azure Databricks , Spark, Pyspark and big data technologies , Azure Data Lake, Azure Devops
 
 
 #### Differnece between Pandas vs Pyspark:

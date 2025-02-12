@@ -2,9 +2,9 @@
 Repository consissts of Projects, Assignments , Solutions and Notes
 
 
-## Following Topics are included
+## Topics
 
-### ADLS(Azure Data Lake Storage) storage account, Azure SQL DB Creation , Azure Data Factory(ADF) ,  Azure Data Factory(ADDF) Pipelines, ADF Data Flow, Incremental pipelines, SQL , NoSQL databases , Azure Databricks 
+### ADLS(Azure Data Lake Storage) storage account, Azure SQL DB Creation , Azure Data Factory(ADF) ,  Azure Data Factory(ADF) Pipelines, ADF Data Flow, Incremental pipelines, SQL , NoSQL databases , Azure Databricks 
 
 ### Azure Databricks , Spark, Pyspark and big data technologies , Azure Data Lake, Azure Devops
 
